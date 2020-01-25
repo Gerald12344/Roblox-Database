@@ -1,8 +1,6 @@
 var express = require('express');
 var app = express();
-var fs = require("fs");
 const MongoClient = require('mongodb').MongoClient;
-const assert = require('assert');
 
 // Connection URL
 const url = 'mongodb+srv://GUSGUS2:1KGhqkuG85hVeGzf@memerise-lk7lh.mongodb.net/test?retryWrites=true&w=majority';
