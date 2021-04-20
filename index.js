@@ -3,7 +3,7 @@ var app = express();
 const MongoClient = require('mongodb').MongoClient;
 
 // Connection URL
-const url = 'mongodb+srv://GUSGUS2:1KGhqkuG85hVeGzf@memerise-lk7lh.mongodb.net/test?retryWrites=true&w=majority';
+const url = '';
 
 
 
